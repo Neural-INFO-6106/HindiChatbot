@@ -47,3 +47,32 @@ Our objective is to develop a chatbot with a focus on natural language processin
 - Implemented a loop allowing continuous interaction until the user enters "0."
 # Result and Challenges:
 Despite achieving high training accuracy, the model demonstrated limitations in random word insertion, word repetition, and contextual understanding. An alternative approach was explored to address these issues, emphasizing the importance of refining model predictions for practical chatbot applications. The steps followed showcase a comprehensive journey in developing and improving the chatbot's language processing capabilities.
+
+# Code Dependencies 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
+![Pickle](https://img.shields.io/badge/Pickle-%23D00000.svg?logo=python&logoColor=white)
+![ModelCheckpoint](https://img.shields.io/badge/ModelCheckpoint-%23150458.svg?logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=keras&logoColor=white)
+![Plot Model](https://img.shields.io/badge/Plot_Model-%23150458.svg?logo=python&logoColor=white)
+
+![Tokenizer](https://img.shields.io/badge/Tokenizer-%23FF6F00.svg?logo=tensorflow&logoColor=white)
+![Embedding](https://img.shields.io/badge/Embedding-%23013243.svg?logo=tensorflow&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-%23FF6F00.svg?logo=tensorflow&logoColor=white)
+![Dense](https://img.shields.io/badge/Dense-%23013243.svg?logo=tensorflow&logoColor=white)
+![Sequential](https://img.shields.io/badge/Sequential-%23FF6F00.svg?logo=tensorflow&logoColor=white)
+![To Categorical](https://img.shields.io/badge/To_Categorical-%23150458.svg?logo=tensorflow&logoColor=white)
+![Adam](https://img.shields.io/badge/Adam-%23013243.svg?logo=tensorflow&logoColor=white)
+
+![Pad Sequences](https://img.shields.io/badge/Pad_Sequences-%23FF6F00.svg?logo=tensorflow&logoColor=white)
+![SimpleRNN](https://img.shields.io/badge/SimpleRNN-%23013243.svg?logo=tensorflow&logoColor=white)
+
+![TSNE](https://img.shields.io/badge/TSNE-%23013243.svg?logo=scikit-learn&logoColor=white)
+![Spatial](https://img.shields.io/badge/Spatial-%23FF6F00.svg?logo=scipy&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-%23013243.svg?logo=gensim&logoColor=white)
+![Random](https://img.shields.io/badge/Random-%23189392.svg?logo=python&logoColor=white)
+![TQDM](https://img.shields.io/badge/TQDM-%23FF6F00.svg?logo=python&logoColor=white)
+![Counter](https://img.shields.io/badge/Counter-%23150458.svg?logo=python&logoColor=white)
+![Ngrams](https://img.shields.io/badge/Ngrams-%23FF6F00.svg?logo=nltk&logoColor=white)
+![IndicNLP](https://img.shields.io/badge/IndicNLP-%23150458.svg?logo=nltk&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?logo=python&logoColor=white)
